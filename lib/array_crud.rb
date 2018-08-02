@@ -22,7 +22,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-    mythical_creatures = ["phoenix", "dragon", "wolf", "sphinx", "arrays!"]
+    mythical_creatures = ["wow", "phoenix", "dragon", "wolf", "sphinx", "arrays!"]
     phoenix_first = mythical_creatures.shift
 end
 
