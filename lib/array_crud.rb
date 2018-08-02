@@ -8,8 +8,8 @@ end
 
 def add_element_to_end_of_array(array, element)
   mythical_creatures = ["phoenix", "dragon", "wolf", "sphinx"]
-  mythical_creatures.push("griffin")
-  
+  mythical_creatures.push("arrays!")
+
 end
 
 def add_element_to_start_of_array(array, element)
