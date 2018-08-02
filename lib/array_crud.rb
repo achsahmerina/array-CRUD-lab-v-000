@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
     mythical_creatures = ["wow", "phoenix", "dragon", "wolf", "sphinx", "arrays!"]
-    phoenix_first = mythical_creatures.shift
+    wow_first = mythical_creatures.shift
 end
 
 def retrieve_element_from_index(array, index_number)
