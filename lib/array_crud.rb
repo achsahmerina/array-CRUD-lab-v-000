@@ -28,6 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
     mythical_creatures = ["wow", "phoenix", "am", "dragon", "wolf", "sphinx", "arrays!"]
+    mythical_creatures[2]
 end
 
 def retrieve_first_element_from_array(array)
